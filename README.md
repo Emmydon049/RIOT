@@ -1,3 +1,5 @@
+
+
 [![Nightly CI status master][master-ci-badge]][master-ci-link]
 [![GitHub release][release-badge]][release-link]
 [![License][license-badge]][license-link]
@@ -181,8 +183,8 @@ https://www.riot-os.org
 [matrix-badge]: https://img.shields.io/badge/chat-Matrix-brightgreen.svg
 [matrix-link]: https://matrix.to/#/#riot-os:matrix.org
 [merge-chance-link]: https://merge-chance.info/target?repo=RIOT-OS/RIOT
-[release-badge]: https://img.shields.io/github/release/RIOT-OS/RIOT.svg
-[release-link]: https://github.com/RIOT-OS/RIOT/releases/latest
+                    [release-badge]: https://img.shields.io/github/release/RIOT-OS/RIOT.svg
+                    [release-link]: https://github.com/RIOT-OS/RIOT##/releases/latest
 [stackoverflow-badge]: https://img.shields.io/badge/stackoverflow-%5Briot--os%5D-yellow
 [stackoverflow-link]: https://stackoverflow.com/questions/tagged/riot-os
 [mastodon-badge]: https://img.shields.io/badge/social-Mastodon-informational.svg
